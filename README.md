@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍓 About Me:
 I am Bobola a Software Developer Student at St Clair College<br>I love UIDesign and Development
 
 
