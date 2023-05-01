@@ -1,5 +1,5 @@
 # 🍓 About Me:
-I am Bob, a recent graduate from St Clair College, where I pursued a degree in Software Development. I am genuinely passionate about UI design and development, striving to create intuitive and visually appealing user experiences.
+I am Bobola, a recent graduate from St Clair College, where I pursued a degree in Software Development. I am genuinely passionate about UI design and development, striving to create intuitive and visually appealing user experiences.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobola-obi-717409239) 
