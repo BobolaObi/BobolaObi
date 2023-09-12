@@ -1,5 +1,8 @@
 # 🍓 About Me:
-I am Bobola, a recent graduate from St Clair College, where I pursued a degree in Software Development. I am genuinely passionate about UI design and development, striving to create intuitive and visually appealing user experiences.
+I am Bobola, I am a Software developer with 3 years of hands on training at St Clair College. I currently work as a full time Full stack Web Developer using PHP to build web applicaitons. 
+
+## Currently 
+I am working on building secure APIS using laravel backend and Astro.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bobola-obi-717409239) 
